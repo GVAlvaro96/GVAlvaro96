@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Álvaro García</h1>
 <h3 align="center">I'm a backend developer from Spain but I wanto to improve in other tecnologies</h3>
 
-- 🌱 I’m currently learning **differents languages**
-
+- 🌱 I’m currently learning **Python with Django**
+- :sparkles: I`ve done a FC24 bot with python and Selenium.
 - 👯 I’m looking to collaborate on **Plexus Tech**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">alvaro.garciavelasco96@gmail.com</p>
 <p align="left">
 </p>
 
